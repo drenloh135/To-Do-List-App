@@ -1,3 +1,8 @@
+Created a simple to do list web app in mainly JavaScript.
+I followed the following tutorial "https://www.kirupa.com/react/simple_todo_app_react.htm"
+
+Plan to do some changes as well.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
